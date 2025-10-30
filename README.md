@@ -2,6 +2,8 @@
 
 ---
 
+© 2025 Shivaraj — All Rights Reserved. 
+
 ## 🧩 1. Concept Overview
 
 ### 1.1 What is CHLAUTH (Channel Authentication)?
@@ -200,4 +202,11 @@ REFRESH SECURITY TYPE(CHLAUTH)
 ✅ **Prepared for:** IBM MQ Admins and Security Engineers  
 ✅ **Validated on:** IBM MQ 9.2.x / 9.3.x / 9.4.x  
 ✅ **Environment:** RHEL 8.x / 9.x, MQ on AWS RDQM / standalone
+
+## 📞 Contact
+- shivaraj
+- shivantu9@gmail.com
+- For questions or contributions, please reach out via GitHub issues.
+
+---
 
