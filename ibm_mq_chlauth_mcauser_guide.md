@@ -1,4 +1,4 @@
-# IBM MQ CHLAUTH & MCAUSER Implementation and Troubleshooting Guide
+# IBM MQ CHLAUTH & MCAUSER Implementation and Troubleshooting Guide.
 
 ---
 
